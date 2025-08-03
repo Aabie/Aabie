@@ -60,8 +60,6 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Coding Vibes" />
-  <br>
   <em style="font-size:1.2em; color:#3776AB;">“Just code it. Vibe with the flow.”</em>
   <br><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=009688&center=true&vCenter=true&width=320&lines=Code+with+passion.;Vibe+with+logic.;Create+with+purpose." alt="Coding Vibe Typing Animation" />
