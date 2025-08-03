@@ -51,7 +51,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.jpg" alt="Anime Character" width="400" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+build+AI+agents+for+fun.;Python+is+my+superpower.;Let's+create+something+awesome+together!" alt="Typing SVG" />
 </p>
 
 ---
