@@ -5,7 +5,7 @@
   </div>
 
   <h1 align="center">Hi there, I'm Abie Nugraha 👋</h1>
-  <h3 align="center">Data Scientist | AI Engineer | Coffee Enthusiast ☕</h3>
+  <h3 align="center">Data Scientist | AI Engineer | Sleep Enthusiast</h3>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/aabienugraha/" target="_blank">
