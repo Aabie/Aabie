@@ -144,6 +144,16 @@
   <img src="https://img.shields.io/badge/LangChain-00C65E?style=for-the-badge" height="32" alt="LangChain" />
   <img src="https://img.shields.io/badge/n8n-121212?style=for-the-badge&logo=n8n&logoColor=white" height="32" alt="n8n" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="32" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Groq-FF6F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjRkY2RjAwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNSIvPjwvc3ZnPg==" height="32" alt="Groq" />
+  <img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge" height="32" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge" height="32" alt="Gemini" />
+  <img src="https://img.shields.io/badge/LangGraph-6C63FF?style=for-the-badge" height="32" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" height="32" alt="HuggingFace" />
+  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge" height="32" alt="Transformers" />
+  <img src="https://img.shields.io/badge/Stable%20Diffusion-19A974?style=for-the-badge" height="32" alt="Stable Diffusion" />
+  <img src="https://img.shields.io/badge/Replicate-1A1A1A?style=for-the-badge" height="32" alt="Replicate" />
+  <img src="https://img.shields.io/badge/Gradio-FFB300?style=for-the-badge" height="32" alt="Gradio" />
+</p>
 </p>
 
 #### 🌐 **Web Development**
