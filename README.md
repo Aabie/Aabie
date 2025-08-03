@@ -67,8 +67,12 @@
 
 ---
 
-  <p align="center">
-    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Coding Cat" />
-    <br>
-    <em>“Code, coffee, and a dash of creativity.”</em>
-  </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Coding Cat" />
+  <br>
+  <em style="font-size:1.2em; color:#F7931E;">“Code, coffee, and a dash of creativity.”</em>
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=320&lines=Stay+aesthetic.;Keep+coding.;Make+magic." alt="Aesthetic Typing Animation" />
+  <br>
+  <img src="https://img.shields.io/badge/Creativity-%23F7931E?style=flat-square&logo=star&logoColor=white" alt="Creativity Badge" />
+</p>
