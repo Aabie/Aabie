@@ -47,6 +47,10 @@
   <strong>AI & Integration Tools:</strong><br><br>
   <img src="https://img.shields.io/badge/LangChain-00C65E?style=for-the-badge" alt="LangChain" />
   <img src="https://img.shields.io/badge/n8n-121212?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/LazyPredict-252525?style=for-the-badge" alt="LazyPredict" />
 </p>
 
 ---
