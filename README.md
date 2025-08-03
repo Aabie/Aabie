@@ -20,10 +20,10 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently building **AI agent workflows** with **n8n, LangChain, Groq, and Salesforce**.
-- 🌱 Exploring **FastAPI, MongoDB, and RAG** for advanced classification tasks.
-- 💡 Crafting full-stack applications with **Next.js, Tailwind CSS, and DaisyUI**.
-- 👨‍🏫 Mentoring students to achieve their dreams of studying abroad.
+- 🔭 I’m currently building **AI Agents** using a few LLMs with **LangChain, LangGraph, and n8n**.
+- 🌱 Exploring **FastAPI, Supabase, and RAG** for advanced classification tasks.
+- 💡 Crafting Data Science & AI Solution using python
+- 💼 I’m available for freelance work, offering AI solutions from consultation to project implementation.
 - ⚡ Fun fact: I love building tools that work **fast** and **smart**.
 
 ---
@@ -32,25 +32,21 @@
 
 <p align="center">
   <strong>Languages & Frameworks:</strong><br><br>
-  <a href="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,flask,nodejs,express" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,fastapi,flask,nodejs,express" />
+  <a href="https://skillicons.dev/icons?i=python,fastapi,flask" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flask" />
   </a>
 </p>
 <p align="center">
-  <strong>Databases & Styling:</strong><br><br>
-  <a href="https://skillicons.dev/icons?i=mongodb,postgres,tailwind" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,tailwind" />
+  <strong>Databases:</strong><br><br>
+  <a href="https://skillicons.dev/icons?i=mysql,postgres" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
   </a>
-  <img src="https://img.shields.io/badge/daisyui-1992d4?style=for-the-badge&logo=daisyui&logoColor=white" alt="DaisyUI" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 <p align="center">
   <strong>AI & Integration Tools:</strong><br><br>
   <img src="https://img.shields.io/badge/LangChain-00C65E?style=for-the-badge" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Groq-FFD21E?style=for-the-badge" alt="Groq" />
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Transformers" />
   <img src="https://img.shields.io/badge/n8n-121212?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 </p>
 
 ---
