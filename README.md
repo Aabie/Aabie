@@ -31,9 +31,11 @@
 ### 🛠️ My Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,postgres" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,postgres" height="40" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="28" alt="Flask" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="28" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="28" alt="Supabase" />
   <img src="https://img.shields.io/badge/LangChain-00C65E?style=for-the-badge" height="28" alt="LangChain" />
   <img src="https://img.shields.io/badge/n8n-121212?style=for-the-badge&logo=n8n&logoColor=white" height="28" alt="n8n" />
