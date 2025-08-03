@@ -31,26 +31,28 @@
 ### 🛠️ My Tech Stack
 
 <p align="center">
-  <strong>Languages & Frameworks:</strong><br><br>
+  <strong>🚀 Languages & Frameworks</strong><br>
   <a href="https://skillicons.dev/icons?i=python,fastapi,flask" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,flask" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flask" height="40" />
   </a>
 </p>
+
 <p align="center">
-  <strong>Databases:</strong><br><br>
+  <strong>🗄️ Databases</strong><br>
   <a href="https://skillicons.dev/icons?i=mysql,postgres" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" height="40" />
   </a>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="28" alt="Supabase" />
 </p>
+
 <p align="center">
-  <strong>AI & Integration Tools:</strong><br><br>
-  <img src="https://img.shields.io/badge/LangChain-00C65E?style=for-the-badge" alt="LangChain" />
-  <img src="https://img.shields.io/badge/n8n-121212?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/LazyPredict-252525?style=for-the-badge" alt="LazyPredict" />
+  <strong>🤖 AI & Integration Tools</strong><br>
+  <img src="https://img.shields.io/badge/LangChain-00C65E?style=for-the-badge" height="28" alt="LangChain" />
+  <img src="https://img.shields.io/badge/n8n-121212?style=for-the-badge&logo=n8n&logoColor=white" height="28" alt="n8n" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/LazyPredict-252525?style=for-the-badge" height="28" alt="LazyPredict" />
 </p>
 
 ---
