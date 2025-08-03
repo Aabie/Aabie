@@ -28,3 +28,4 @@ jobs:
           message: "Generate contribution snake SVG"
           add: "dist/github-contribution-grid-snake.svg"
           branch: output
+          github_token: ${{ secrets.GH_TOKEN }}
