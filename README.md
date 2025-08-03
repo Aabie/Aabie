@@ -50,16 +50,8 @@
 
 ---
 
-### 🎮 GitHub Game Zone
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abienugraha&show_icons=true&theme=radical&hide_border=true&title_color=ff9800&icon_color=ffd700" alt="abienugraha stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abienugraha&theme=radical&hide_border=true" alt="abienugraha streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abienugraha&layout=compact&theme=radical&hide_border=true" alt="abienugraha languages" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF9800&center=true&vCenter=true&width=435&lines=Level+Up+with+Every+Commit!;Collect+badges+and+XP+on+my+profile!;Can+you+beat+my+streak%3F+%F0%9F%8E%AE" alt="GitHub Game Zone Typing Animation" />
+  <img src="https://i.imgur.com/8Km9tLL.jpg" alt="Anime Character" width="400" />
 </p>
 
 ---
