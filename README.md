@@ -51,7 +51,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;I+build+AI+agents+for+fun.;Python+is+my+superpower.;Let's+create+something+awesome+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=43E6C1&background=00000000&center=true&vCenter=true&width=600&lines=👋+Welcome+to+my+GitHub!;🚀+Building+AI+agents+with+passion.;🐍+Python+is+my+superpower.;✨+Let's+create+something+awesome+together!" alt="Typing SVG" style="border-radius: 12px; box-shadow: 0 4px 24px rgba(67,230,193,0.15);" />
 </p>
 
 ---
