@@ -1,8 +1,7 @@
 <div align="center">
   
   <!-- Animated Header with Gradient -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wavi
-</div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving</div>
 
 <!-- Aesthetic divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -38,7 +37,7 @@
 
 <!-- Footer wave -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />dient&customColorList=12&height=180&section=header&text=Abie%20Nugraha&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Data%20Scientist%20|%20AI%20Engineer%20|%20Game%20Enthusiast&descAlignY=51&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />ient&customColorList=12&height=180&section=header&text=Abie%20Nugraha&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Data%20Scientist%20|%20AI%20Engineer%20|%20Game%20Enthusiast&descAlignY=51&descAlign=50" />
 
   <!-- Profile Views Counter with better styling -->
   <a href="https://github.com/Aabie">
@@ -61,21 +60,22 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=009688&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there%2C+I'm+Abie+Nugraha+%F0%9F%91%8B;Welcome+to+my+digital+playground!" alt="Typing Animation Header" />
 </h1>
-  <!-- Social Media Links with Hover Effects -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/aabienugraha/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" height="35">
-    </a>
-    <a href="mailto:aabienugraha@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" height="35">
-    </a>
-    <a href="https://github.com/Aabie" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" height="35">
-    </a>
-    <a href="#" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white&labelColor=FF5722" alt="Portfolio" height="35">
-    </a>
-  </p>
+
+<!-- Social Media Links with Hover Effects -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/aabienugraha/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn" height="35">
+  </a>
+  <a href="mailto:aabienugraha@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" height="35">
+  </a>
+  <a href="https://github.com/Aabie" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" height="35">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white&labelColor=FF5722" alt="Portfolio" height="35">
+  </a>
+</p>
 
 <!-- Aesthetic divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
