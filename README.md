@@ -1,7 +1,10 @@
 <div align="center">
   
   <!-- Animated Header with Gradient -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=<!-- Aesthetic divider -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=wavi
+</div>
+
+<!-- Aesthetic divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🎯 **Let's Connect & Collaborate!**
@@ -35,7 +38,7 @@
 
 <!-- Footer wave -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />lor=gradient&customColorList=12&height=180&section=header&text=Abie%20Nugraha&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Data%20Scientist%20|%20AI%20Engineer%20|%20Game%20Enthusiast&descAlignY=51&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />dient&customColorList=12&height=180&section=header&text=Abie%20Nugraha&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Data%20Scientist%20|%20AI%20Engineer%20|%20Game%20Enthusiast&descAlignY=51&descAlign=50" />
 
   <!-- Profile Views Counter with better styling -->
   <a href="https://github.com/Aabie">
