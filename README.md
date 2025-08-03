@@ -51,9 +51,8 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1200&color=43E6C1&background=00000000&width=600&center=false&vCenter=true&lines=🌈+Coding+with+style+and+smiles.;💡+Modern+AI+for+modern+problems.;🎨+Aesthetic+code,+fun+vibes.;🚀+Let’s make tech beautiful+together!" alt="Typing SVG" />
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
-
 ---
 
 ### 📌 Featured Projects
