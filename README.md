@@ -79,10 +79,7 @@
 <!-- Aesthetic divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- Current Activity Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=🚀+Building+AI+Solutions;💡+Crafting+Data+Magic;🎨+Creating+Beautiful+Code;☕+Powered+by+Coffee" alt="Current Activity Animation" />
-</p>
+<!-- Current Activity Animation removed as requested -->
 
 <!-- Aesthetic divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
