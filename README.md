@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <a href="https://github.com/abienugraha">
     <img src="https://komarev.com/ghpvc/?username=abienugraha&label=Profile%20views&color=0e75b6&style=flat-square" alt="abienugraha" />
@@ -94,4 +93,3 @@ Here are a few cool projects I’ve worked on:
 <p align="center">
   <i>"Build fast. Learn faster. Help others along the way."</i>
 </p>
-```
