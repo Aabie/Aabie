@@ -30,8 +30,7 @@
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aabie&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=009688&line=009688&point=ffffff" alt="GitHub Activity Graph" width="100%"/>
   
-  <!-- Snake eating commits -->
-  <img src="https://raw.githubusercontent.com/Aabie/Aabie/output/github-contribution-grid-snake.svg" alt="Snake eating commits" />
+  <!-- Snake eating commits removed as requested -->
   
 </div>
 
