@@ -31,32 +31,16 @@
 ### 🛠️ My Tech Stack
 
 <p align="center">
-  <strong>🚀 Languages & Frameworks</strong><br>
-  <a href="https://skillicons.dev/icons?i=python,fastapi,flask" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,flask" height="40" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>🗄️ Databases</strong><br>
-  <a href="https://skillicons.dev/icons?i=mysql,postgres" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres" height="40" />
+  <a href="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,postgres" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,mysql,postgres" height="40" />
   </a>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="28" alt="Supabase" />
-</p>
-
-<p align="center">
-  <strong>🤖 AI & Integration Tools</strong><br>
   <img src="https://img.shields.io/badge/LangChain-00C65E?style=for-the-badge" height="28" alt="LangChain" />
   <img src="https://img.shields.io/badge/n8n-121212?style=for-the-badge&logo=n8n&logoColor=white" height="28" alt="n8n" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" height="28" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/LazyPredict-252525?style=for-the-badge" height="28" alt="LazyPredict" />
-</p>
-
-<p align="center">
-  <strong>🛠️ Tools</strong><br>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="28" alt="Git" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="28" alt="VS Code" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="28" alt="Jupyter" />
