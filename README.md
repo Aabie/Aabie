@@ -5,8 +5,7 @@
   </div>
 
   <h1 align="center">Hi there, I'm Abie Nugraha 👋</h1>
-  <h3 align="center">Data Scientist | AI Engineer | Sleep Enthusiast</h3>
-
+  <h3 align="center">Data Scientist | AI Engineer | Game Enthusiast</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/aabienugraha/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -14,31 +13,24 @@
     <a href="mailto:aabienugraha@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://twitter.com/aabienugraha" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-    </a>
-    <a href="https://www.instagram.com/aabienugraha/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
+  </p>
   </p>
 
 ---
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=I+code+so+my+coffee+doesn't+feel+lonely.;AI+is+my+spirit+animal.;%F0%9F%91%BD+%F0%9F%92%A1+%F0%9F%92%BB;Turning+data+into+magic.;Building+cool+stuff+with+cool+tech!;Stay+curious,+stay+creative." alt="Funny Typing Animation" />
-  </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7931E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Hello+visitor!;Thanks+for+stopping+by." alt="Welcome Typing Animation" />
+</p>
 
 ---
 
 ### 🚀 About Me
 
 - 🔭 Currently building **AI Agents** with LLMs, LangChain, LangGraph, and n8n.
-- 🌱 Exploring **FastAPI, Supabase, and RAG** for advanced classification tasks.
 - 💡 Crafting Data Science & AI solutions using Python.
 - 💼 Available for freelance work: AI solutions from consultation to project implementation.
 - 🎨 I love making tools that are **fast**, **smart**, and a little bit aesthetic.
-- 🧩 Always up for a challenge and learning something new!
-- ⚡ Fun fact: My code runs on coffee and curiosity.
+- ⚡ Fun fact: My code is powered by coffee, memes, and the occasional rubber duck debugging session.
 
 ---
 
@@ -68,11 +60,11 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" alt="Coding Cat" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Coding Vibes" />
   <br>
-  <em style="font-size:1.2em; color:#F7931E;">“Code, coffee, and a dash of creativity.”</em>
+  <em style="font-size:1.2em; color:#3776AB;">“Just code it. Vibe with the flow.”</em>
   <br><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=320&lines=Stay+aesthetic.;Keep+coding.;Make+magic." alt="Aesthetic Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=009688&center=true&vCenter=true&width=320&lines=Code+with+passion.;Vibe+with+logic.;Create+with+purpose." alt="Coding Vibe Typing Animation" />
   <br>
-  <img src="https://img.shields.io/badge/Creativity-%23F7931E?style=flat-square&logo=star&logoColor=white" alt="Creativity Badge" />
+  <img src="https://img.shields.io/badge/Vibes-%23009688?style=flat-square&logo=music&logoColor=white" alt="Vibes Badge" />
 </p>
